@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Java/JVM.md",
+                "file": "Java/JVM.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Java/集合.md",
+                "file": "Java/集合.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Java/多线程.md",
+                "file": "Java/多线程.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Java/JVM.md",
+                "file": "Java/JVM.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9. 中间件/消息队列.md",
+                "file": "中间件/消息队列.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9. 中间件/消息队列.md",
+                "file": "中间件/消息队列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9. 中间件/消息队列.md",
+                "file": "中间件/消息队列.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,12 +182,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9. 中间件/消息队列.md"
+                "file": "中间件/消息队列.md"
               }
+            }
+          },
+          {
+            "id": "2c421bf6e75d3e9c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -204,16 +212,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ebb5de35639c01f9",
+  "active": "2c421bf6e75d3e9c",
   "lastOpenFiles": [
-    "1. Java/JVM.md",
-    "1. Java/IO.md",
-    "1. Java/集合.md",
-    "9. 中间件/消息队列.md",
+    "中间件/消息队列.md",
+    "中间件/缓存.md",
+    "Java/JVM.md",
+    "Java/IO.md",
+    "Java/集合.md",
     "未命名.canvas",
-    "9. 中间件/缓存.md",
-    "1. Java/多线程.md",
-    "2. 计算机基础/计算机网络.md",
+    "Java/多线程.md",
+    "计算机基础/计算机网络.md",
     "2. 计算机基础/OSI.md"
   ]
 }
