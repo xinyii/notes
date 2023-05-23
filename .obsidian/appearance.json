@@ -3,5 +3,7 @@
   "enabledCssSnippets": [
     "index"
   ],
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "theme": "obsidian"
 }
