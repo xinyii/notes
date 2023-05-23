@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14d40f3e8e27fe09",
+        "id": "62aee669b16dd4b2",
         "type": "tabs",
         "children": [
           {
-            "id": "d13267c3d04c2ced",
+            "id": "62b4f2659c385cfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分布式/Kubernetes.md",
+                "file": "Java/JUC.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "分布式/Kubernetes.md",
+                "file": "Java/JUC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "分布式/Kubernetes.md",
+                "file": "Java/JUC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "分布式/Kubernetes.md"
+                "file": "Java/JUC.md"
               }
             }
           },
@@ -163,39 +163,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d13267c3d04c2ced",
+  "active": "62b4f2659c385cfc",
   "lastOpenFiles": [
-    "数据库/ElasticSearch.md",
+    "Java/集合.md",
+    "Java/关键字.md",
+    "Java/JVM.md",
+    "Java/JUC.md",
+    "Java/IO.md",
+    "系统设计/秒杀系统.md",
+    "算法/递归.md",
+    "算法/回溯.md",
+    "数据结构/树.md",
+    "计算机基础/项目类型.md",
+    "中间件/消息队列.md",
+    "中间件/定时任务.md",
+    "计算机基础/基础概念.md",
+    "计算机基础/计算机网络.md",
+    "算法/唯一ID.md",
+    "分布式/微服务.md",
     "分布式/Kubernetes.md",
+    "数据库/ElasticSearch.md",
     "分布式/锁.md",
     "系统设计",
-    "计算机基础/基础概念.md",
-    "计算机基础/项目类型.md",
     "概念/MVC.md",
     "概念/OOP.md",
     "概念/AOP.md",
     "设计模式",
     "分布式/事务.md",
     "分布式/理论.md",
-    "中间件/消息队列.md",
     "中间件/分库.md",
     "算法/搜索.md",
-    "算法/排序.md",
-    "数据结构/树.md",
-    "框架/gRPC.md",
-    "框架/Netty.md",
-    "框架/Dubbo.md",
-    "框架/JPA.md",
-    "框架/MyBatis.md",
-    "框架/SpringCloud.md",
-    "框架/SpringBoot.md",
-    "计算机基础/计算机网络.md",
     "框架",
     "数据结构",
     "算法",
-    "数据库/HBase.md",
-    "数据库/Redis.md",
-    "数据库/MongoDB.md",
     "数据库",
     "分布式",
     "概念",
