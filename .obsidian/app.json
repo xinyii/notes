@@ -15,5 +15,6 @@
   "showLineNumber": false,
   "rightToLeft": false,
   "useTab": false,
-  "livePreview": false
+  "livePreview": false,
+  "alwaysUpdateLinks": true
 }
