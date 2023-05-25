@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中间件/消息队列.md",
-                "mode": "source",
+                "file": "分布式/理论.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中间件/消息队列.md",
+                "file": "分布式/理论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中间件/消息队列.md",
+                "file": "分布式/理论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中间件/消息队列.md"
+                "file": "分布式/理论.md"
               }
             }
           },
@@ -163,9 +163,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9bc349a6247a8e0f",
+  "active": "62b4f2659c385cfc",
   "lastOpenFiles": [
+    "分布式/images/lilun-1.png",
+    "分布式/理论.md",
+    "分布式/images",
+    "中间件/消息队列.md",
     "中间件/分库.md",
+    "中间件/定时任务.md",
+    "中间件/缓存.md",
     "算法/搜索.md",
     "算法/排序.md",
     "数据结构/树.md",
@@ -175,9 +181,6 @@
     "算法/遍历.md",
     "数据结构/images/tree-2.png",
     "数据结构/images",
-    "中间件/消息队列.md",
-    "中间件/定时任务.md",
-    "中间件/缓存.md",
     "Java/JUC.md",
     "Java/关键字.md",
     "Java/JVM.md",
@@ -192,9 +195,7 @@
     "分布式/微服务.md",
     "分布式/Kubernetes.md",
     "数据库/ElasticSearch.md",
-    "分布式/锁.md",
     "系统设计",
-    "概念/MVC.md",
     "设计模式",
     "框架",
     "数据结构",
