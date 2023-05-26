@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "方法论/理论.md",
+                "file": "数据结构/树.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "方法论/理论.md",
+                "file": "数据结构/树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "方法论/理论.md",
+                "file": "数据结构/树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "方法论/理论.md"
+                "file": "数据结构/树.md"
               }
             }
           },
@@ -165,8 +165,8 @@
   },
   "active": "62b4f2659c385cfc",
   "lastOpenFiles": [
-    "数据结构/树.md",
     "方法论/理论.md",
+    "数据结构/树.md",
     "方法论/images/lilun-2.png",
     "方法论/images/lilun-1.png",
     "方法论/images",
