@@ -16,5 +16,6 @@
   "rightToLeft": false,
   "useTab": false,
   "livePreview": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
 }

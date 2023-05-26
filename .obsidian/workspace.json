@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分布式/理论.md",
-                "mode": "preview",
+                "file": "方法论/理论.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "分布式/理论.md",
+                "file": "方法论/理论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "分布式/理论.md",
+                "file": "方法论/理论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "分布式/理论.md"
+                "file": "方法论/理论.md"
               }
             }
           },
@@ -165,8 +165,14 @@
   },
   "active": "62b4f2659c385cfc",
   "lastOpenFiles": [
-    "分布式/images/lilun-1.png",
-    "分布式/理论.md",
+    "数据结构/树.md",
+    "方法论/理论.md",
+    "方法论/images/lilun-2.png",
+    "方法论/images/lilun-1.png",
+    "方法论/images",
+    "方法论",
+    "分布式/Kubernetes.md",
+    "分布式/锁.md",
     "分布式/images",
     "中间件/消息队列.md",
     "中间件/分库.md",
@@ -174,7 +180,6 @@
     "中间件/缓存.md",
     "算法/搜索.md",
     "算法/排序.md",
-    "数据结构/树.md",
     "Java/集合.md",
     "数据结构/images/tree-1.png",
     "算法/缓存.md",
@@ -193,16 +198,12 @@
     "计算机基础/计算机网络.md",
     "算法/唯一ID.md",
     "分布式/微服务.md",
-    "分布式/Kubernetes.md",
-    "数据库/ElasticSearch.md",
     "系统设计",
     "设计模式",
     "框架",
     "数据结构",
     "算法",
     "数据库",
-    "分布式",
-    "概念",
     "未命名.canvas"
   ]
 }
