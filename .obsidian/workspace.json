@@ -4,22 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "62aee669b16dd4b2",
+        "id": "bcd2aac1343b067f",
         "type": "tabs",
         "children": [
           {
-            "id": "62b4f2659c385cfc",
+            "id": "9f66b3fd792c5565",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "606ed115ad7b1f8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/树.md",
+                "file": "Java/JVM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63b00731418142dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/集合.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02f2d5c64a8e5f01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面经/小红书.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -66,7 +99,7 @@
             }
           },
           {
-            "id": "67fba2a3e1b80618",
+            "id": "91316888962182c6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.51103591918945
+    "width": 300
   },
   "right": {
     "id": "26c6e35febcf2a26",
@@ -93,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构/树.md",
+                "file": "面经/小红书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构/树.md",
+                "file": "面经/小红书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/树.md"
+                "file": "面经/小红书.md"
               }
             }
           },
@@ -146,64 +179,48 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62b4f2659c385cfc",
+  "active": "02f2d5c64a8e5f01",
   "lastOpenFiles": [
-    "方法论/理论.md",
-    "数据结构/树.md",
+    "框架/SOFA.md",
+    "面经/小红书.md",
+    "面经",
+    "框架/gRPC.md",
+    "框架/Dubbo.md",
+    "架构/SOA.md",
+    "Java/JVM.md",
+    "分布式/Kubernetes.md",
     "方法论/images/lilun-2.png",
     "方法论/images/lilun-1.png",
+    "方法论/理论.md",
     "方法论/images",
     "方法论",
-    "分布式/Kubernetes.md",
-    "分布式/锁.md",
-    "分布式/images",
-    "中间件/消息队列.md",
-    "中间件/分库.md",
-    "中间件/定时任务.md",
-    "中间件/缓存.md",
-    "算法/搜索.md",
-    "算法/排序.md",
-    "Java/集合.md",
-    "数据结构/images/tree-1.png",
-    "算法/缓存.md",
-    "算法/遍历.md",
-    "数据结构/images/tree-2.png",
-    "数据结构/images",
-    "Java/JUC.md",
-    "Java/关键字.md",
-    "Java/JVM.md",
-    "Java/IO.md",
-    "系统设计/秒杀系统.md",
-    "算法/递归.md",
-    "算法/回溯.md",
-    "计算机基础/项目类型.md",
-    "计算机基础/基础概念.md",
-    "计算机基础/计算机网络.md",
-    "算法/唯一ID.md",
+    "分布式/事务.md",
     "分布式/微服务.md",
-    "系统设计",
-    "设计模式",
-    "框架",
-    "数据结构",
-    "算法",
-    "数据库",
-    "未命名.canvas"
+    "分布式/理论.md",
+    "中间件/消息队列.md",
+    "中间件/缓存.md",
+    "Java/IO.md",
+    "Java/集合.md",
+    "未命名.canvas",
+    "Java/多线程.md",
+    "计算机基础/计算机网络.md",
+    "2. 计算机基础/OSI.md"
   ]
 }
